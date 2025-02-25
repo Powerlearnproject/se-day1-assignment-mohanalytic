@@ -132,18 +132,27 @@ Suitable Scenarios:
 1) Large-scale projects with well-defined requirements: Construction projects, government projects, or projects with strict regulatory requirements.
 1) Projects with fixed budgets and timelines: Where cost and schedule are critical constraints.
 2) Projects where changes are unlikely: Where the scope is clear and stable.
-**Agile Methodology**
 
+   
+**Agile Methodology**
 Core Idea: An iterative and incremental approach that emphasizes flexibility and collaboration. Projects are broken down into smaller cycles (sprints), with continuous feedback and adaptation.
-**Characteristics**:
-**Iterative development**: Work is done in short cycles, with frequent releases and updates.
-**Flexibility and adaptability**: Changes are embraced and incorporated throughout the process.
-**Collaboration and communication**: Close collaboration between the team and stakeholders.
-**Customer focus**: Continuous feedback from customers is used to guide development.
+Characteristics:
+
+Iterative development: Work is done in short cycles, with frequent releases and updates.
+
+Flexibility and adaptability: Changes are embraced and incorporated throughout the process.
+
+Collaboration and communication: Close collaboration between the team and stakeholders.
+
+Customer focus: Continuous feedback from customers is used to guide development
 **Pros:**
+
 Flexibility and adaptability: Easy to accommodate changes in requirements or feedback.
+
 Early and frequent feedback: Allows for continuous improvement and ensures the product meets customer needs.
+
 Faster time to market: Iterative development allows for quicker releases of working software.
+
 Cons:
 Less predictable: Can be challenging to estimate timelines and budgets accurately.
 Requires active customer involvement: Customer participation is essential throughout the process.
