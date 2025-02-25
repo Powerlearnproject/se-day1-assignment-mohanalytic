@@ -145,7 +145,9 @@ Flexibility and adaptability: Changes are embraced and incorporated throughout t
 Collaboration and communication: Close collaboration between the team and stakeholders.
 
 Customer focus: Continuous feedback from customers is used to guide development
+
 **Pros:**
+
 
 Flexibility and adaptability: Easy to accommodate changes in requirements or feedback.
 
@@ -154,10 +156,15 @@ Early and frequent feedback: Allows for continuous improvement and ensures the p
 Faster time to market: Iterative development allows for quicker releases of working software.
 
 Cons:
+
 Less predictable: Can be challenging to estimate timelines and budgets accurately.
+
 Requires active customer involvement: Customer participation is essential throughout the process.
+
 Can be challenging to manage for large teams: Requires strong communication and coordination.
+
 Suitable Scenarios:
+
 Software development projects: Where requirements are likely to change and customer feedback is crucial.
 Projects with a high degree of uncertainty: Where the scope may evolve over time.
 Projects where speed and innovation are important: Where getting a product to market quickly is critical.
